@@ -10,6 +10,8 @@ body,html,div,h1,h2,h4,h5,h6,p{
 }
 #note-display{
   width:80%;
+  font-size: 16px;
   margin:0 auto;
+  padding: 8px;
   color:white;
 }
