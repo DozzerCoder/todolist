@@ -1,5 +1,4 @@
 body,html,div,h1,h2,h4,h5,h6,p{
-  color:white;
   text-align: center;
 }
 #card-enter > h3{
@@ -12,4 +11,5 @@ body,html,div,h1,h2,h4,h5,h6,p{
 #note-display{
   width:80%;
   margin:0 auto;
+  color:white;
 }
