@@ -1,0 +1,15 @@
+body,html,div,h1,h2,h4,h5,h6,p{
+  color:white;
+  text-align: center;
+}
+#card-enter > h3{
+  color:black
+}
+#card-enter{
+  width:60%;
+  margin: 0 auto;
+}
+#note-display{
+  width:80%;
+  margin:0 auto;
+}
